@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\move\move\obj\Debug\move.Form1.resources
+C:\Users\filip\source\repos\move\move\obj\Debug\move.Properties.Resources.resources
+C:\Users\filip\source\repos\move\move\obj\Debug\move.csproj.GenerateResource.Cache
+C:\Users\filip\source\repos\move\move\obj\Debug\move.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\move\move\bin\Debug\move.exe.config
+C:\Users\filip\source\repos\move\move\bin\Debug\move.exe
+C:\Users\filip\source\repos\move\move\bin\Debug\move.pdb
+C:\Users\filip\source\repos\move\move\obj\Debug\move.exe
+C:\Users\filip\source\repos\move\move\obj\Debug\move.pdb
